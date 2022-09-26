@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: 651308448971.dkr.ecr.ap-south-1.amazonaws.com/javaapp
   tag: latest
   pullPolicy: IfNotPresent
 
